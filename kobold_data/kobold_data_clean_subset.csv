@@ -1,0 +1,98 @@
+,sample,medium,easting_wgs84,northing_wgs84,date_assay,company,structure,lithology,Co_ppm,Cu_ppm,Ni_ppm
+8,9177294,rock_outcrop,-89.82863,48.0046,11/6/01,united_states_geological_survey,dike; sill; laccolith,gabbro,54.0,174.0,37.5
+9,9177295,rock_outcrop,-89.80772,48.00198,11/6/01,united_states_geological_survey,dike; sill; laccolith,gabbro,61.5,232.5,45.0
+10,9177296,rock,-89.80772,48.00198,11/6/01,united_states_geological_survey,dike; sill; laccolith,gabbro,61.5,237.0,45.0
+13,9177299,rock_outcrop,-89.68931,47.96223,11/6/01,united_states_geological_survey,dike; sill; laccolith,gabbro,73.5,387.0,111.0
+14,9177300,rock_outcrop,-89.68931,47.96223,11/6/01,united_states_geological_survey,dike; sill; laccolith,gabbro,73.5,,106.5
+16,9177302,rock_outcrop,-89.68646,47.96032,11/6/01,united_states_geological_survey,dike; sill; laccolith,gabbro,58.5,634.5,36.0
+44,9278641,rock_outcrop,-93.35,48.58333,11/14/83,united_states_geological_survey,unknown,basalt,45.0,62.0,110.0
+61,9278663,rock_outcrop,-93.21667,48.61667,11/14/83,united_states_geological_survey,unknown,gabbro,79.5,34.5,195.0
+62,9278664,rock_outcrop,-93.15,48.6,11/14/83,united_states_geological_survey,lava flow,basalt,120.0,0.5,1200.0
+63,9278665,rock_outcrop,-93.2,48.6,11/14/83,united_states_geological_survey,lava flow,basalt,7.0,2.0,2.0
+64,9278666,rock_outcrop,-93.2,48.61667,11/14/83,united_states_geological_survey,lava flow,basalt,40.0,66.0,36.0
+78,9278680,rock_outcrop,-93.3,48.61667,11/14/83,united_states_geological_survey,lava flow,basalt,42.0,23.0,82.0
+79,9278681,rock_outcrop,-93.31667,48.61667,11/14/83,united_states_geological_survey,lava flow,basalt,34.0,36.0,260.0
+80,9278682,rock_outcrop,-93.31667,48.61667,11/14/83,united_states_geological_survey,lava flow,basalt,42.0,29.0,81.0
+81,9278683,rock_outcrop,-93.31667,48.61667,11/14/83,united_states_geological_survey,lava flow,basalt,34.0,48.0,16.0
+82,9278684,rock_outcrop,-93.31667,48.61667,11/14/83,united_states_geological_survey,unknown,basalt,46.0,110.0,100.0
+83,9278685,rock_outcrop,-93.31667,48.61667,11/14/83,united_states_geological_survey,lava flow,basalt,62.0,26.0,300.0
+84,9278686,rock_outcrop,-93.25,48.6,11/14/83,united_states_geological_survey,sill/laccolith,gabbro,94.5,255.0,88.5
+85,9278687,rock_outcrop,-93.25,48.6,11/14/83,united_states_geological_survey,sill/laccolith,gabbro,96.0,270.0,87.0
+86,9278688,rock_outcrop,-93.25,48.6,11/14/83,united_states_geological_survey,sill/laccolith,gabbro,70.5,285.0,165.0
+87,9278689,rock_outcrop,-93.25,48.6,11/14/83,united_states_geological_survey,sill/laccolith,gabbro,72.0,97.5,54.0
+159,9334346,rock,-91.91972,47.62083,1/2/88,united_states_geological_survey,unknown,gabbro,150.0,150.0,450.0
+160,9334347,rock,-91.92583,47.61833,1/2/88,united_states_geological_survey,unknown,gabbro,225.0,45.0,450.0
+161,9334348,rock,-91.93222,47.61861,1/2/88,united_states_geological_survey,unknown,gabbro,22.5,75.0,75.0
+162,9334349,rock,-91.93889,47.6175,1/2/88,united_states_geological_survey,unknown,gabbro,150.0,150.0,450.0
+163,9334350,rock,-91.94472,47.61667,1/2/88,united_states_geological_survey,unknown,gabbro,225.0,225.0,450.0
+164,9334351,rock,-91.95139,47.61528,1/2/88,united_states_geological_survey,unknown,gabbro,225.0,150.0,450.0
+165,9334352,rock,-91.95778,47.61389,1/2/88,united_states_geological_survey,unknown,gabbro,225.0,300.0,450.0
+166,9334353,rock,-91.96306,47.61167,1/2/88,united_states_geological_survey,unknown,gabbro,150.0,105.0,450.0
+168,9334355,rock,-91.92611,47.67694,1/2/88,united_states_geological_survey,unknown,gabbro,22.5,7.5,7.5
+169,9334356,rock,-91.92667,47.67722,1/2/88,united_states_geological_survey,unknown,gabbro,22.5,7.5,15.0
+170,9334362,rock,-91.92194,47.62306,1/2/88,united_states_geological_survey,unknown,gabbro,150.0,75.0,450.0
+171,9334363,rock,-91.92222,47.62694,1/2/88,united_states_geological_survey,unknown,gabbro,150.0,1500.0,450.0
+172,9334364,rock,-91.93472,47.62111,1/2/88,united_states_geological_survey,unknown,gabbro,150.0,150.0,450.0
+173,9334365,rock,-91.93889,47.625,1/2/88,united_states_geological_survey,unknown,gabbro,105.0,150.0,450.0
+174,9334366,rock,-91.9525,47.61944,1/2/88,united_states_geological_survey,unknown,gabbro,225.0,150.0,450.0
+175,9334367,rock,-91.95333,47.62778,1/2/88,united_states_geological_survey,unknown,gabbro,75.0,75.0,300.0
+176,9334368,rock,-91.94639,47.63472,1/2/88,united_states_geological_survey,unknown,gabbro,30.0,150.0,150.0
+177,9334369,rock,-91.94306,47.63583,1/2/88,united_states_geological_survey,unknown,gabbro,150.0,1050.0,450.0
+190,9493764,rock,-91.78333,47.95,5/19/86,united_states_geological_survey,sill/laccolith,gabbro,255.0,2070.0,912.0
+191,9493765,rock,-91.78333,47.95,5/19/86,united_states_geological_survey,sill/laccolith,gabbro,153.0,43.5,618.0
+201,9494955,rock_outcrop,-91.86667,47.88333,7/28/87,united_states_geological_survey,unknown,gabbro,214.5,0.4,934.5
+202,9494956,rock_outcrop,-91.86667,47.88333,7/28/87,united_states_geological_survey,unknown,gabbro,139.5,,801.0
+203,9494957,rock_outcrop,-91.88333,47.86667,7/28/87,united_states_geological_survey,unknown,gabbro,213.0,,1011.0
+204,9494958,rock_outcrop,-91.88333,47.86667,7/28/87,united_states_geological_survey,unknown,gabbro,768.0,0.4,201.0
+205,9494959,rock_outcrop,-91.88333,47.95833,7/28/87,united_states_geological_survey,unknown,gabbro,247.5,0.4,517.5
+206,9494960,rock_outcrop,-92.13333,47.85,7/28/87,united_states_geological_survey,unknown,gabbro,142.5,2617.5,619.5
+207,9494961,rock_outcrop,-92.13333,47.85,7/28/87,united_states_geological_survey,unknown,gabbro,154.5,,517.5
+208,9494962,rock_outcrop,-92.23333,47.85,7/28/87,united_states_geological_survey,unknown,gabbro,214.5,0.4,381.0
+209,9494963,rock_outcrop,-92.23333,47.85,7/28/87,united_states_geological_survey,unknown,gabbro,216.0,801.0,184.5
+210,9494964,rock_outcrop,-92.29583,47.81667,7/28/87,united_states_geological_survey,unknown,gabbro,202.5,,247.5
+211,9494965,rock_outcrop,-92.35,47.8,7/28/87,united_states_geological_survey,unknown,gabbro,187.5,,364.5
+212,9494966,rock_outcrop,-92.35,47.8,7/28/87,united_states_geological_survey,unknown,gabbro,214.5,,351.0
+213,9494967,rock_outcrop,-92.35,47.8,7/28/87,united_states_geological_survey,unknown,gabbro,124.5,,934.5
+214,9494968,rock_outcrop,-92.37083,47.79167,7/28/87,united_states_geological_survey,unknown,gabbro,117.0,,501.0
+215,9494969,rock_outcrop,-92.37083,47.79167,7/28/87,united_states_geological_survey,unknown,gabbro,229.5,2505.0,184.5
+216,9494970,rock_outcrop,-92.37083,47.79167,7/28/87,united_states_geological_survey,unknown,gabbro,181.5,,526.5
+217,9494971,rock_outcrop,-92.37083,47.79167,7/28/87,united_states_geological_survey,unknown,gabbro,153.0,,214.5
+218,9494972,rock_outcrop,-92.37083,47.79167,7/28/87,united_states_geological_survey,unknown,gabbro,97.5,,67.5
+219,9494973,rock_outcrop,-92.37083,47.79167,7/28/87,united_states_geological_survey,unknown,gabbro,154.5,,96.0
+220,9497288,rock_outcrop,-92.25,46.83333,3/20/89,united_states_geological_survey,lava flow,basalt,123.0,220.0,26.0
+221,9497289,rock_outcrop,-92.33333,46.83333,3/20/89,united_states_geological_survey,lava flow,basalt,98.0,53.0,150.0
+222,9497290,rock_outcrop,-91.25,47.25,3/20/89,united_states_geological_survey,lava flow,basalt,85.0,120.0,32.0
+223,9497291,rock_outcrop,-90.33333,48.0,3/20/89,united_states_geological_survey,lava flow,basalt,42.0,100.0,41.0
+224,9497292,rock_outcrop,-92.41667,46.66667,3/20/89,united_states_geological_survey,lava flow,basalt,99.0,20.0,150.0
+225,9497293,rock_outcrop,-90.25,48.08333,3/20/89,united_states_geological_survey,lava flow,basalt,44.0,44.0,130.0
+226,9497294,rock_outcrop,-91.25,47.25,3/20/89,united_states_geological_survey,lava flow,basalt,120.0,110.0,100.0
+227,9497295,rock_outcrop,-91.25,47.25,3/20/89,united_states_geological_survey,lava flow,basalt,80.0,96.0,190.0
+228,9497296,rock_outcrop,-92.41667,46.66667,3/20/89,united_states_geological_survey,lava flow,basalt,77.0,160.0,120.0
+229,9497297,rock_outcrop,-89.75,47.91667,3/20/89,united_states_geological_survey,lava flow,basalt,42.0,110.0,78.0
+230,9497298,rock_outcrop,-90.25,47.83333,3/20/89,united_states_geological_survey,lava flow,basalt,26.0,170.0,34.0
+231,9497299,rock_outcrop,-91.5,47.25,3/20/89,united_states_geological_survey,lava flow,basalt,66.0,97.0,180.0
+232,9497344,rock_outcrop,-91.26667,47.3,4/5/89,united_states_geological_survey,sill/laccolith,basalt,55.0,200.0,190.0
+234,9497348,rock_outcrop,-91.91667,46.91667,4/5/89,united_states_geological_survey,lava flow,basalt,9.8,56.0,5.7
+235,9497349,rock_outcrop,-92.33333,46.73333,4/5/89,united_states_geological_survey,lava flow,basalt,50.0,340.0,76.0
+236,9498313,rock_outcrop,-91.66667,47.05,10/12/89,united_states_geological_survey,lava flow,basalt,46.0,,270.0
+242,9499700,rock_outcrop,-91.11667,48.10833,1/15/91,united_states_geological_survey,pyroclastic,basalt,13.8,,25.0
+250,9499708,rock_outcrop,-91.11667,48.09167,1/15/91,united_states_geological_survey,pyroclastic,basalt,29.1,,15.0
+251,9499709,rock_outcrop,-91.11667,48.09167,1/15/91,united_states_geological_survey,pyroclastic,basalt,48.7,,180.0
+252,9499710,rock_outcrop,-91.11667,48.09167,1/15/91,united_states_geological_survey,pyroclastic,basalt,60.0,,240.0
+253,9499711,rock_outcrop,-91.08333,48.16667,1/15/91,united_states_geological_survey,pyroclastic,basalt,4.97,,16.0
+254,9499712,rock_outcrop,-91.08333,48.16667,1/15/91,united_states_geological_survey,pyroclastic,basalt,56.6,,120.0
+255,9499713,rock_outcrop,-91.08333,48.16667,1/15/91,united_states_geological_survey,pyroclastic,basalt,52.1,,83.0
+256,9499714,rock_outcrop,-91.08333,48.16667,1/15/91,united_states_geological_survey,pyroclastic,basalt,39.7,,86.0
+257,9499715,rock_outcrop,-91.08333,48.16667,1/15/91,united_states_geological_survey,pyroclastic,basalt,81.1,,500.0
+288,9500191,rock_outcrop,-89.66667,47.88333,8/8/91,united_states_geological_survey,lava flow,basalt,51.2,203.0,196.0
+289,9500192,rock_outcrop,-89.66667,47.96667,8/8/91,united_states_geological_survey,lava flow,basalt,58.4,190.0,162.0
+290,9500193,rock_outcrop,-89.66667,47.96667,8/8/91,united_states_geological_survey,lava flow,basalt,56.6,192.0,188.0
+291,9500197,rock_outcrop,-90.08333,48.08333,8/8/91,united_states_geological_survey,lava flow,basalt,38.7,137.0,35.0
+292,9500198,rock_outcrop,-90.08333,48.08333,8/8/91,united_states_geological_survey,lava flow,basalt,29.5,71.0,65.0
+293,9500200,rock_outcrop,-89.91667,47.96667,8/8/91,united_states_geological_survey,lava flow,basalt,47.8,113.0,105.0
+294,9500201,rock_outcrop,-89.91667,47.96667,8/8/91,united_states_geological_survey,lava flow,basalt,44.2,99.0,63.0
+295,9500203,rock_outcrop,-90.83333,47.75,8/8/91,united_states_geological_survey,lava flow,basalt,44.4,112.0,232.0
+296,9500204,rock_outcrop,-91.75,47.08333,8/8/91,united_states_geological_survey,lava flow,basalt,44.2,59.0,252.0
+297,9500205,rock_outcrop,-90.91667,47.66667,8/8/91,united_states_geological_survey,lava flow,basalt,46.2,27.0,277.0
+298,9500206,rock_outcrop,-90.91667,47.66667,8/8/91,united_states_geological_survey,lava flow,basalt,37.9,42.0,138.0
+299,9500207,rock_outcrop,-91.83333,,8/8/91,united_states_geological_survey,lava flow,basalt,43.8,96.0,254.0
